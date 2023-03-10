@@ -217,5 +217,5 @@ def get_init_port(G, T, Risk_type, W0, weight_range=weight_range):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5001)
     print(1)
